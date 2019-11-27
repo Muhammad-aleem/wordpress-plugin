@@ -1,0 +1,14 @@
+ #errmsg
+    {
+    color: red;
+    }
+    .error{
+      color: red;
+    }
+    .firstcontainer{
+    	margin-top: 30px;
+    }
+    .bntsty{
+    	margin-left: 200px;
+    	border: 1px solid blue;
+    }
